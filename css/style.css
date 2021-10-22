@@ -1,0 +1,294 @@
+#body{
+    margin: 0;
+}
+#menu{
+    background-color: 36424A;
+    padding: 30px; 
+    padding-bottom: 60;
+    text-align: center;
+    font-size: 16px; 
+    border-bottom: 4px solid #E44827 ;
+
+}
+#menu a{
+    font-size:20 ;
+    text-decoration-line: none;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+    float: right;
+}
+#ust-baslik{
+    background-color: 36424A;
+    padding: 20px 50px 20px  150px;
+    color: white;
+    margin-left: -85;
+}
+#menu p{
+color: white;
+margin-bottom: -20;
+margin-top: -0;
+float: left;
+font-size: 25px;
+margin-left: 140;
+}
+#menu b{
+    color: #E44827;
+    margin-bottom: -20;
+    margin-top: -0;
+    margin-right:-165;
+    float: left;
+    font-size: 25px;
+    margin-left: 40;
+    }
+#icerik h1{
+    color:#1854A4;;
+}
+
+.container-flex{
+    display: flex;
+margin-right: 50;
+}
+
+.container-flex div{
+text-align: center;
+margin-top: 30;
+}
+
+.container-flex p{
+    text-align: center !important; 
+    padding: 20px;
+    text-indent: 0 !important;
+    font-size: 18;
+    font-style: normal;
+}
+
+.clearfix{
+    overflow: auto;
+}    
+#gorsel2{
+    border-bottom: 5px solid #36424A ;
+}
+#icerik{
+    font-size: 22px;
+    background-color:whitesmoke;
+    color: black;
+}
+
+#icerik img{
+    width: 100px;
+    height: 85px;
+}
+#icerik h1{
+    color:#1854A4;
+}
+
+.container-flex{
+    display: flex;
+    padding-right: 50;
+    padding-left: 50;
+}
+
+.container-flex div{
+    text-align: center;
+    padding: 10px;
+}
+
+.container-flex p{
+    text-align: justify;
+    padding: 20px;
+}
+
+.clearfix{
+    overflow: auto;
+}
+#alt-baslik{
+    color: white ;
+    padding: 8 ;
+    background-color: #E44827 ;
+    font-size: 18 ;
+    text-align: center;
+}
+#menu a{
+    font-size:20 ;
+    text-decoration-line: none;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
+#icerik{
+    padding: 20;    
+    font-size: 16px;
+    padding: 20px 20px 20px  100px;
+}
+#alt-baslik{
+    color: white ;
+    padding: 2 ;
+    background-color: #E44827 ;
+    font-size: 18 ;
+    text-align: center;
+}
+#alt-baslikk{
+    color: white ;
+    padding: 2 ;
+    background-color: #E44827 ;
+    font-size: 18 ;
+    text-align: center;
+    margin-top: 10;
+}
+#alt-baslikk p{
+margin-left: 390;
+}
+#icerik p{
+text-indent: 50;
+text-align: justify;
+font-size: 17;
+}
+#icerikb{
+    padding: 20;    
+    font-size: 17px;
+    padding: 5px 20px 5px  60px;
+    border-bottom: 15px solid white ;
+    }
+    #görseller2{
+    float: right;
+    margin-bottom: 100;
+    margin-top: 20;
+    margin-left: 22;
+    }
+    #görseller{
+        text-align: center;
+        padding: 20; 
+    }
+    #görseller3{
+        height: 600;
+        width: 586;
+        text-align: left;
+        padding: 20;
+    }
+    #görselisimleri{
+        text-align: center;
+        font-size: 25px;
+        word-spacing: 240px;
+        padding: 15;
+        color: #E44827;
+    }
+    #icerikv{
+        margin-left:128 ;
+    font-size: 15;
+    }
+    #icerikvv{
+        margin-left:550 ;
+    font-size: 17;
+    }
+    #icerikab{
+    font-size: 16;
+    }
+    #buttoms{
+        border-bottom: 5px solid #E44827 ;
+        text-align: center;
+        padding: 20;
+        margin-top: -7;
+    }
+    #icerik{
+        font-size: 20;
+    }
+    #icerik h1{
+        color:#1854A4;;
+    }
+    
+    .container-flexx{
+        display: flex;
+    margin-right: 50;
+    margin-left: 50;
+    }
+    
+    .container-flexx div{
+    text-align: center;
+    margin-top: 30;
+    }
+    
+    .container-flexx p{
+        text-align: center !important; 
+        padding: 20px;
+        text-indent: 0 !important;
+    }
+    
+    .clearfix{
+        overflow: auto;
+    }    
+    #gorsel2{
+        border-bottom: 5px solid #36424A ;
+    }
+    #icerik{
+        font-size: 22px;
+    }
+    #icerik h1{
+        color:#1854A4;;
+    }
+    
+    .container-flexx{
+        display: flex;
+    }
+    
+    .container-flexx div{
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .container-flexx p{
+        text-align: justify;
+        padding: 20px;
+    }
+    
+    .clearfix{
+        overflow: auto;
+    }
+    
+    
+    /* Form stilelleri */
+    .conatiner {
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .form-group label{
+        display: inline-block;
+        width: 150px;
+    }
+    
+    
+    
+    .form-group input[type=text],select {
+        width: 50%;
+      }
+    
+    .form-group input[type="submit"]{
+        color: #0000ff;
+    }
+    
+    .form-group input[type="reset"]{
+        color: #ff0000;
+    }
+    
+    .form-group input[type="submit"],[type="reset"]{
+        width: 250px;
+    } 
+#icerikkk img{
+    width: 280px;
+    height: 170px;
+}
+#ıcons{
+    margin-left: 1360;
+    margin-top: 9;
+    margin-bottom: -28;
+    color: white;
+    font-size: 16;
+}
